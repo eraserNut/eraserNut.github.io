@@ -10,6 +10,7 @@ ViSha is a short name for "Video shadow detection dataset". ViSha includes 120 v
 
 ### Quikly know ViSha
 <video src="./vide1_compass.mp4" width="720px" height="480px" controls="controls"></video>
+![Alt text]("./video1_compass.mp4")
 
 <iframe 
     height=450 
