@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to cctt!"
+title:  "Welcome to cc!"
 date:   2021-04-07 17:50:00
 categories: main
 ---
