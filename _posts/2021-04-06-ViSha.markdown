@@ -43,7 +43,6 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 
 ### Statistics of ViSha
 ViSha include many shadow attributes:
-![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png)
 
 {{</* figure
 img="sun.jpg" 
