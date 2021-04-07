@@ -51,9 +51,9 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 
 ### Statistics of ViSha
 ViSha include many shadow attributes:
-![Alt text](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png)
+![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png)
 
 Visualization of the statistics of ViSha. (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
-![Alt text](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_figure.png)
+![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_figure.png)
 
 
