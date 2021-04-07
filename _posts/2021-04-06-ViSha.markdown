@@ -45,6 +45,12 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 ViSha include many shadow attributes:
 ![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png)
 
+{{</* figure
+img="sun.jpg" 
+caption="The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. [Credits](https://images.nasa.gov/details-GSFC_20171208_Archive_e000393.html)." 
+command="Resize" 
+options="800x" */>}}
+
 Visualization of the statistics of ViSha. (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
 ![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_figure.png)
 
