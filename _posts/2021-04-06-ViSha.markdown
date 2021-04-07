@@ -11,14 +11,6 @@ ViSha is a short name for "Video shadow detection dataset". ViSha includes 120 v
 ### Quikly know ViSha
 <video src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/video1_compass.mp4"></video>
 
-<iframe 
-    height=450 
-    width=800 
-    src='http://player.youku.com/embed/XMzMxMjE0MjY4NA==' 
-    frameborder=0 
-    'allowfullscreen'>
-</iframe>
-
 ### Form of ViSha
 To provide guidelines for future works, we randomly split the dataset into training and testing sets with a ratio of 5:7. The 50 training set and 70 testing set can be downloaded above this page.
 
