@@ -6,14 +6,14 @@ categories: main
 ---
 
 ## Introduction for ViSha
-ViSha is a short name for "Video shadow detection dataset". ViSha includes 120 videos with diverse content, varying length, and object-level annotations. More than half videos are from 5 widely-used video tracking benchmarks (i.e., OTB, VOT, LaSOT, TC-128, and NfS). The remaining 59 videos are self-captured with different hand-held cameras, over different scenes, at varying times. The frame rate is adjusted to 30 fps for all video sequences. Eventually, our video shadow detection dataset (ViSha) contains 120 video sequences, with a totally of 11,685 frames and 390 seconds duration. The longest video contains 103 frames and the shortest contains 11 frames.
+**ViSha** is a short name for "Video shadow detection dataset". ViSha includes 120 videos with diverse content, varying length, and object-level annotations. More than half videos are from 5 widely-used video tracking benchmarks (i.e., OTB, VOT, LaSOT, TC-128, and NfS). The remaining 59 videos are self-captured with different hand-held cameras, over different scenes, at varying times. The frame rate is adjusted to 30 fps for all video sequences. Eventually, our video shadow detection dataset (ViSha) contains 120 video sequences, with a totally of 11,685 frames and 390 seconds duration. The longest video contains 103 frames and the shortest contains 11 frames.
 
 ## Quikly know ViSha
 
 <img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/video1_compass_gif2.gif?raw=true">
 
 ## Form of ViSha
-To provide guidelines for future works, we randomly split the dataset into training and testing sets with a ratio of 5:7. The 50 training set and 70 testing set can be downloaded above this page.
+To provide guidelines for future works, we randomly split the dataset into training and testing sets with a ratio of 5:7. The 50 training set and 70 testing set can be downloaded *above this page*.
 
 If you download ViSha and unzip each file, you can find the dataset structure as follows:
 
@@ -43,7 +43,7 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 ## Statistics of ViSha
 **ViSha include many shadow attributes:**
 
-<img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png?raw=true" width="720">
+<img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png?raw=true" width="730">
 
 
 **Visualization of the statistics of ViSha.** (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
@@ -52,7 +52,8 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 
 ## Citation
 @inproceedings{chen21TVSD,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Chen, Zhihao and Wan, Liang and Zhu, Lei and Shen, Jia and Fu, Huazhu and Liu,&nbsp;&nbsp;&nbsp;&nbsp; Wennan and Qin, Jing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Chen, Zhihao and Wan, Liang and Zhu, Lei and Shen, Jia and Fu, Huazhu and Liu,    
+&nbsp;&nbsp;&nbsp;&nbsp;  Wennan and Qin, Jing},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Triple-cooperative Video Shadow Detection},    
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2021}    
