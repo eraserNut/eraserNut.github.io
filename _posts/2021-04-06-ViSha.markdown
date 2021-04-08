@@ -17,9 +17,25 @@ To provide guidelines for future works, we randomly split the dataset into train
 
 If you download ViSha and unzip each file, you can find the dataset structure as follows:
 
-    ▾ <root>/
+    ▾ <train>/
         ▾ images/
-            logo.png
+            ▾ baby_cat/
+                00000001.jpg
+                ...
+            ▾ baby_wave1/
+                00000001.jpg
+                ...
+            ...
+        ▾ labels/
+            ▾ baby_cat/
+                00000001.png
+                ...
+            ▾ baby_wave1/
+                00000001.png
+                ...
+            ...
+    ▾ <test>/
+        ...
 
 <img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/folder_structure.png?raw=true" height="500">
 
