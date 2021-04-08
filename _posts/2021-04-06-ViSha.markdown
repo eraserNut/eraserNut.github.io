@@ -6,7 +6,8 @@ categories: main
 ---
 
 ## Introduction for ViSha
-**ViSha** is a short name for "Video shadow detection dataset". ViSha includes 120 videos with diverse content, varying length, and object-level annotations. More than half videos are from 5 widely-used video tracking benchmarks (i.e., OTB, VOT, LaSOT, TC-128, and NfS). The remaining 59 videos are self-captured with different hand-held cameras, over different scenes, at varying times. The frame rate is adjusted to 30 fps for all video sequences. Eventually, our video shadow detection dataset (ViSha) contains 120 video sequences, with a totally of 11,685 frames and 390 seconds duration. The longest video contains 103 frames and the shortest contains 11 frames.
+**ViSha** is a short name for "Video shadow detection dataset". ViSha includes 120 videos with diverse content, varying length, and object-level annotations. More than half videos are from 5 widely-used video tracking benchmarks (i.e., OTB[1], VOT[2], LaSOT[3], TC-128[4], and NfS[5]). The remaining 59 videos are self-captured with different hand-held cameras, over different scenes, at varying times. The frame rate is adjusted to 30 fps for all video sequences.  
+Eventually, **ViSha** contains 120 video sequences, with a totally of 11,685 frames and 390 seconds duration. The longest video contains 103 frames and the shortest contains 11 frames.
 
 ## Quikly know ViSha
 
@@ -58,3 +59,10 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2021}    
 }
+
+## Reference
+[1]Y. Wu, J. Lim, and M. H. Yang. Object tracking benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9):1834–1848, 2015.  
+[2]M. Kristan, J. Matas, A. Leonardis, T. Vojir, R. Pﬂugfelder, G. Fernandez, G. Nebehay, F. Porikli, and L. Cehovin. A novel performance evaluation methodology for single-target trackers. IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(11):2137–2155, 2016.  
+[3]H. Fan, H. Ling, L. Lin, F. Yang, P. Chu, G. Deng, S. Yu, H. Bai, Y. Xu, and C. Liao. Lasot: A high-quality benchmark for large-scale single object tracking. In CVPR, pages 5374–5383, 2019.  
+[4]P. Liang, E. Blasch, and H. Ling. Encoding color information for visual tracking: Algorithms and benchmark. IEEE Transactions on Image Processing, 24(12):5630–5644, 2015.  
+[5]Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan, and Simon Lucey. Need for speed: A benchmark for higher frame rate object tracking. In ICCV, pages 1134–1143, 2017.
