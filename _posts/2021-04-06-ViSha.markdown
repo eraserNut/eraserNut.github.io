@@ -41,13 +41,19 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 
 
 ## Statistics of ViSha
-ViSha include many shadow attributes:
+**ViSha include many shadow attributes:**
 
 <img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_sta.png?raw=true" width="720">
 
 
-Visualization of the statistics of ViSha. (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
+**Visualization of the statistics of ViSha.** (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
 
 <img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_figure.png?raw=true" width="700">
 
-
+## Citation
+@inproceedings{chen21TVSD,   
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Chen, Zhihao and Wan, Liang and Zhu, Lei and Shen, Jia and Fu, Huazhu and Liu, Wennan and Qin, Jing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Triple-cooperative Video Shadow Detection},    
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2021}    
+}
