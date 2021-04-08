@@ -45,7 +45,7 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 ViSha include many shadow attributes:
 
 ![img](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2784234584,3015562813&fm=26&gp=0.jpg)
-
+<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2784234584,3015562813&fm=26&gp=0.jpg">
 
 
 
