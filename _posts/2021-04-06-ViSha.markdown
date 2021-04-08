@@ -15,31 +15,8 @@ ViSha is a short name for "Video shadow detection dataset". ViSha includes 120 v
 To provide guidelines for future works, we randomly split the dataset into training and testing sets with a ratio of 5:7. The 50 training set and 70 testing set can be downloaded above this page.
 
 If you download ViSha and unzip each file, you can find the dataset structure as follows:
+<img src="https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/folder_structure.png">
 
-<ViSha_release>  
-+-- train  
-|&nbsp;&nbsp;&nbsp;&nbsp; +-- images  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- baby_cat  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000001.jpg  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000002.jpg  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- baby_wave1  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000001.jpg  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000002.jpg  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-|&nbsp;&nbsp;&nbsp;&nbsp; +-- labels  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- baby_cat  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000001.png  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000002.png  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- baby_wave1  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000001.png  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- 00000002.png  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-|&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; +-- ...  
-+-- test  
-|&nbsp;&nbsp;&nbsp;&nbsp; +-- ...
 
 ### Statistics of ViSha
 ViSha include many shadow attributes:
