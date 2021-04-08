@@ -45,10 +45,11 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 ViSha include many shadow attributes:
 
 {{</* figure
-img="visha_sta.png" 
-caption="The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth.)." 
+img="https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E9%9B%A8&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2081749259,1670071610&os=4139225427,3029316677&simid=3546670880,400217451&pn=2&rn=1&di=108790&ln=1483&fr=&fmq=1617866447101_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%253A%252F%252Fimg.pconline.com.cn%252Fimages%252Fphotoblog%252F9%252F8%252F2%252F3%252F9823364%252F20099%252F28%252F1254153315207_mthumb.jpg%26refer%3Dhttp%253A%252F%252Fimg.pconline.com.cn%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1620458469%26t%3D0c10b7ac014266d9d0a60084b5eae68b&rpstart=0&rpnum=0&adpicid=0&force=undefined" 
+caption="The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. [Credits](https://images.nasa.gov/details-GSFC_20171208_Archive_e000393.html)." 
 command="Resize" 
 options="800x" */>}}
+
 
 Visualization of the statistics of ViSha. (a) Shadow categories. (b) Ratio distribution of the shadows. (c) Mutual dependencies among shadow categories in (a).
 ![avatar](https://github.com/eraserNut/eraserNut.github.io/blob/main/_posts/visha_figure.png)
