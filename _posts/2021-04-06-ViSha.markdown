@@ -53,13 +53,15 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 
 ## Citation
 **If you utilize ViSha in your work, please cite our paper as follows**  
+```
 @inproceedings{chen21TVSD,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Chen, Zhihao and Wan, Liang and Zhu, Lei and Shen, Jia and Fu, Huazhu and Liu,    
 &nbsp;&nbsp;&nbsp;&nbsp;  Wennan and Qin, Jing},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Triple-cooperative Video Shadow Detection},    
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2021}    
-}  
+}
+```  
 Paper arXiv link: https://arxiv.org/abs/2103.06533
 
 ## Reference
