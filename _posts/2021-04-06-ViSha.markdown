@@ -61,8 +61,8 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 }
 
 ## Reference
-[1]Y. Wu, J. Lim, and M. H. Yang. Object tracking benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9):1834–1848, 2015.  
+<small>[1]Y. Wu, J. Lim, and M. H. Yang. Object tracking benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9):1834–1848, 2015.  
 [2]M. Kristan, J. Matas, A. Leonardis, T. Vojir, R. Pﬂugfelder, G. Fernandez, G. Nebehay, F. Porikli, and L. Cehovin. A novel performance evaluation methodology for single-target trackers. IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(11):2137–2155, 2016.  
 [3]H. Fan, H. Ling, L. Lin, F. Yang, P. Chu, G. Deng, S. Yu, H. Bai, Y. Xu, and C. Liao. Lasot: A high-quality benchmark for large-scale single object tracking. In CVPR, pages 5374–5383, 2019.  
 [4]P. Liang, E. Blasch, and H. Ling. Encoding color information for visual tracking: Algorithms and benchmark. IEEE Transactions on Image Processing, 24(12):5630–5644, 2015.  
-[5]Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan, and Simon Lucey. Need for speed: A benchmark for higher frame rate object tracking. In ICCV, pages 1134–1143, 2017.
+[5]Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan, and Simon Lucey. Need for speed: A benchmark for higher frame rate object tracking. In ICCV, pages 1134–1143, 2017.</small>
