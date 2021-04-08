@@ -59,7 +59,8 @@ If you download ViSha and unzip each file, you can find the dataset structure as
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Triple-cooperative Video Shadow Detection},    
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {CVPR},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2021}    
-}
+}  
+Paper arXiv link: https://arxiv.org/abs/2103.06533
 
 ## Reference
 <small>[1]Y. Wu, J. Lim, and M. H. Yang. Object tracking benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9):1834–1848, 2015.  
